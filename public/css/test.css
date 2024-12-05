@@ -1,0 +1,13 @@
+/* public/css/test.css */
+body { 
+    padding: 20px; 
+    font-family: Arial, sans-serif; 
+}
+button { 
+    padding: 10px 20px; 
+    margin: 10px 0; 
+}
+#result { 
+    margin-top: 20px; 
+    white-space: pre-wrap; 
+}
